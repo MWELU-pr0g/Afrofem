@@ -1,0 +1,40 @@
+body {
+     background-color: lightblue;
+   }
+   
+   h1 {
+     color: white;
+     text-align: center;
+   }
+   
+   p {
+     color: black;
+     font-family: verdana;
+     font-size: 20px;
+   }
+   h3{
+        color: white;
+   }
+   table {
+     border-collapse: collapse;
+     width: 100%;
+     border: 1px solid #ddd;
+   }
+   
+   th, td {
+     border: 1px solid #ddd;
+     text-align: left;
+     padding: 16px;
+   }
+   h4{
+     text-align: center;
+   }
+   img:hover {
+     opacity: 0.5;
+   }
+   .emogi{
+     text-align: center;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+   }
